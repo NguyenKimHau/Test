@@ -1,2 +1,3 @@
-Tao mot github tren github.com : Check
-Download github desktop: Check
+Tao mot github tren github.com : Xong
+Download github desktop: Xong
+Commit bang github desktop: Xong
