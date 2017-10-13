@@ -1,3 +1,4 @@
 Tao mot github tren github.com : Xong
 Download github desktop: Xong
 Commit bang github desktop: Xong
+Push file: Xong
